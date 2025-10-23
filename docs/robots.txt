@@ -1,2 +1,4 @@
 User-Agent: *
 Allow: /
+Disallow: /62e85dcf-07a7-4404-8da0-a083ac2e9461
+Disallow: /62e85dcf-07a7-4404-8da0-a083ac2e9461/
